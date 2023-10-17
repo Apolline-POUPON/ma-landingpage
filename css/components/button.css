@@ -1,0 +1,12 @@
+.button-rose {
+  background-color: #F8BDEB;
+  padding: 10px 15px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  font-family: "assistant";
+  font-size: 18px;
+}
+.button-rose:hover {
+  opacity: 0.8;
+}
